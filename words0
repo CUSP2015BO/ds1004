@@ -1,6 +1,10 @@
 first 
 <<<<<<< HEAD
 it's raining today
+<<<<<<< HEAD
+modify words0 from test2
+=======
 =======
 modify words0 from test1
 >>>>>>> test1
+>>>>>>> master
